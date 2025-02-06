@@ -12,6 +12,7 @@ This report details the development of a Spring MVC web application, encompassin
 How does Spring MVC support the MVC design pattern? Draw a diagram that supports the answer tothis question.
 
 Spring MVC is a framework that implements the Model-View-Controller (MVC) design pattern. It uses the DispatcherServlet as the central controller, handling incoming requests. This servlet then delegates to other components like controllers, which interact with the model. Views are generated based on the model data and returned to the user. This separation of concerns makes the application more modular and maintainable.
+![image](https://github.com/user-attachments/assets/aed01ae4-bb1b-4681-9008-260094bf443e)
 
 Research and identify 2 MVC Frameworks other than Spring MVC. What are the frameworks andhow do they differ from Spring MVC?
 
