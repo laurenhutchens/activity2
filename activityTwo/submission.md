@@ -7,6 +7,7 @@
 ![test three](img/img_2.png)
 #### With the title/heading "Hello World from ModelAndView" and the subheading "Another Hello World from ModelAndView!". The URL in the address bar is "localhost:8080/hello/test3".
 ![test four](img/img_3.png)
+#### The browser displays a webpage with the heading "Hello Spring MVC Framework!" and a link below it that says "Go to /test4".  The URL in the address bar shows "localhost:8080/hello/test2", indicating a locally hosted page.
 
 ### test responses with proper messages and links to test2, test3, and test4.
 
