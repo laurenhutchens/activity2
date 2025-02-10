@@ -9,7 +9,8 @@
 ![test four](img/img_3.png)
 #### The browser displays a webpage with the heading "Hello Spring MVC Framework!" and a link below it that says "Go to /test4".  The URL in the address bar shows "localhost:8080/hello/test2", indicating a locally hosted page.
 
-### test responses with proper messages and links to test2, test3, and test4.
+
+## test responses with proper messages and links to test2, test3, and test4.
 
 ![test2](img/img_4.png)
 ![test3](img/img_5.png)
