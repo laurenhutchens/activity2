@@ -19,10 +19,15 @@
 
 ## part two
 ![test one](../topic22/src/img/img.png)
+#### The browser displays a simple login form with fields for username and password, along with a "Submit" button, on a page titled "Login Form" and hosted locally.
 ![test two](../topic22/src/img/img_1.png)
+#### The browser displays a webpage with a login form and a section below showing "Your Orders" with a table of order details, all hosted locally.
 ![test three](../topic22/src/img/img_2.png)
+#### The browser displays a webpage with a Grand Canyon University-themed login form, including the logo and fields for username and password, within a larger page titled "Welcome to my CST-339 Spring Boot Activity Application".
 ![test four](../topic22/src/img/img_3.png)
+#### The browser displays a webpage titled "Welcome to my CST-339 Spring Boot Activity Application" with a Grand Canyon University logo and a section titled "My Orders" showing a list of orders with details.
 ![show error](../topic22/src/img/img_4.png)
+#### The browser displays a Grand Canyon University-themed page with a "My Orders" heading, a login form with username and password fields, and a list of errors indicating character limits for both fields.
 
 ## part three
 ![login](../topic22/src/img/img_2.png)
