@@ -31,4 +31,6 @@
 
 ## part three
 ![login](../topic22/src/img/img_2.png)
+#### The browser displays a Grand Canyon University-themed login page with a form for username and password, within a webpage titled "Welcome to my CST-339 Spring Boot Activity Application".
 ![order](../topic22/src/img/img_3.png)
+#### The browser displays a webpage titled "Welcome to my CST-339 Spring Boot Activity Application" with a Grand Canyon University logo and a table displaying a list of orders.
